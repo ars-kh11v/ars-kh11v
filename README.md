@@ -8,7 +8,7 @@ Alpes.
 
 ## 📬 Get in Touch
 
-- Mail: [arslankhllv@gmail.com]
+- Mail: arslankhllv@gmail.com
 - GitHub: [github.com/ars-kh11v](https://github.com/ars-kh11v)
 - LinkedIn: [linkedin.com/in/arslan-khllv](https://linkedin.com/in/arslan-khllv)
 - Telegram: [@ar4y23](https://t.me/ar4y23)
