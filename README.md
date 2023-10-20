@@ -1,6 +1,6 @@
 ![Banner](HEADER.png)
 
-## About Me
+## 👋 About Me
 
 - 💬 Experienced Data Scientist with a strong background in machine learning and deep learning. Proven ability to translate complex data into actionable insights. Currently advancing my knowledge at University Grenoble
 Alpes.
